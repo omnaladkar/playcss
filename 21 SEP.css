@@ -1,0 +1,132 @@
+
+
+<style>
+body { background: #dba159; }
+.al{
+   display: flex;
+   
+ 
+   
+}
+.al1{
+   display: flex;
+    margin-left: 8px;
+    
+   
+ 
+   
+}
+.big-box{
+   margin-top: 50px;
+   margin-left: 45px;
+}
+.small-box{
+    
+    margin-top: 25px;
+    
+    
+    
+   margin-left: 20px;
+   
+   
+   height:35px;
+   width:35px;
+     background: #dba159;
+     
+}
+
+.s-square {
+   height:80px;
+   width:80px;
+   background: #fcfdaf;
+  border-radius: 25px;
+  
+   
+  
+  
+   
+}
+.s1-square {
+   height:80px;
+   width:80px;
+   background: #dba159;
+   
+  border-radius: 25px;
+  
+   
+  
+  
+   
+}
+.t-square {
+   height:70px;
+   width:70px;
+   background: #fcfdaf;
+   border-color: coral;
+   
+   border-width: 30px;
+  border-radius: 14px;
+   transform: rotateY(0deg) rotate(45deg);
+  
+  
+   
+}
+
+
+
+
+
+
+
+
+</style>
+<div class="bhel">
+   
+   
+   <div class="big-box">
+     <div class="al">
+        <div class="s1-square"></div>
+        
+        <div class="t-square"></div>
+       <div class="s-square"></div>
+       
+     </div>
+      
+   
+   <div class="al">
+      <div class="s-square"></div>
+      
+   <div class="s-square"> <div class="small-box"></div></div>
+   
+   <div class="s-square"> <div class="small-box"></div></div>
+   <div class="t-square"></div>
+   
+   </div>
+   <div class="al1">
+      <div class="t-square"></div>
+   <div class="s-square"> <div class="small-box"></div></div>
+   
+   <div class="s-square"> <div class="small-box"></div></div>
+   
+   <div class="s-square"></div>
+   </div>
+   
+   <div class="al">
+       <div class="s1-square"></div>
+       
+        
+       <div class="s-square"></div>
+       <div class="t-square"></div>
+       
+       
+     </div>
+     
+   
+   
+   </div>
+   
+   
+   
+   
+   
+</div>
